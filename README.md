@@ -7,7 +7,8 @@ I'm a freelance web designer / developer based in Durban, Amanzimtoti. I love bu
 - 🔭 I’m currently working on my blog
 - 🌱 I’m currently learning React and Gatsby
 - 👨🏾‍🏫 I'm a coding tutor for beginners
-- 📫 How to reach me: www.minenhlengubane.com 
+- 🎹 I'm a hobby pianist (😎I think Jazz music is awesome)
+- 🌍 How to reach me: www.minenhlengubane.com 
 <hr/>
 
 ### Skills & Experience
