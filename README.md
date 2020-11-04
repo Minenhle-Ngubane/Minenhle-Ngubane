@@ -1,6 +1,7 @@
+![I'm a freelance web designer](https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/githubBanner.png)
+
 ### Hi there 👋, Minenhle Ngubane aka Mino
 #### I'm a freelance web designer
-![I'm a freelance web designer](https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/githubBanner.png)
 
 I love building websites for small businesses and I am looking for more opportunities to work in coding on a freelance basis.
 
