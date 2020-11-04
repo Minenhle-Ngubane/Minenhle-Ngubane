@@ -6,7 +6,7 @@ I'm a freelance web designer / developer based in Durban, Amanzimtoti. I love bu
 
 ### Favourite Quote
 > "Think twice, code once."
-> - Waseem Latif.
+> ~**Waseem Latif**
 
 - 🔭 I’m currently working on my blog
 - 🌱 I’m currently learning React and Gatsby
