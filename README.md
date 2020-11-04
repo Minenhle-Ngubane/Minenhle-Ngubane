@@ -13,7 +13,7 @@ I'm a freelance web designer / developer based in Durban, Amanzimtoti. I love bu
 
 ### Skills & Experience
 
-- [<img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/linkedin-logo.svg' alt='linkedin' height='20'>] Python
+- <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/linkedin-logo.svg' alt='linkedin' height='20'> Python
 - Django
 - Wagtail
 - JS
