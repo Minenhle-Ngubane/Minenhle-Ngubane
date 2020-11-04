@@ -1,7 +1,7 @@
-![I'm a freelance web designer](https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/banner-2.png)
+(https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/banner-2.png)
 
 # Minenhle Ngubane (Mino) :south_africa:
-#### Freelance web designer
+#### Freelance Web Developer
 I'm a freelance web designer / developer based in Durban, Amanzimtoti. I love building websites for small businesses and I am looking for more opportunities to work in coding on a freelance basis. I also enjoy working on personal side projects such as building mobile apps with React Native.
 
 - 🔭 I’m currently working on my blog
