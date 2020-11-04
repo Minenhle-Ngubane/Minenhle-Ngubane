@@ -1,6 +1,6 @@
 <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/banner-2.png'>
 
-# Minenhle Ngubane (Mino) <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/south-africa.svg' height='30'> :south_africa: RTL ![Profile views](https://gpvc.arturio.dev/Minenhle-Ngubane)
+# Minenhle Ngubane (Mino) <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/south-africa.svg' height='30'> :south_africa:      ![Profile views](https://gpvc.arturio.dev/Minenhle-Ngubane)
 #### Freelance Web Developer
 I'm a freelance web designer / developer based in Durban, Amanzimtoti. I love building websites for small businesses and I am looking for more opportunities to work in coding on a freelance basis. I also enjoy working on personal side projects such as building mobile apps with React Native.
 
