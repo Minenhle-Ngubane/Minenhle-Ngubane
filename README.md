@@ -1,4 +1,4 @@
-(https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/banner-2.png)
+<img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/banner-2.png'>
 
 # Minenhle Ngubane (Mino) :south_africa:
 #### Freelance Web Developer
