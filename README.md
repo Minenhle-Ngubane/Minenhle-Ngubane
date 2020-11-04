@@ -15,7 +15,7 @@ I'm a freelance web designer / developer based in Durban, Amanzimtoti. I love bu
 
 - <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/python.svg' alt='linkedin' height='20'> Python
 - <img src='https://static.djangoproject.com/img/logos/django-logo-negative.svg' alt='linkedin' height='20'>
-- Wagtail
+- <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/wagtail-seeklogo.com.svg' alt='linkedin' height='20'> Wagtail
 - <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/javascript.svg' alt='linkedin' height='20'> JS
 - <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/html-5.svg' alt='linkedin' height='20'> HTML
 - <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/css.svg' alt='linkedin' height='20'> CSS
