@@ -24,10 +24,7 @@ I'm a freelance web designer / developer based in Durban, Amanzimtoti. I love bu
 ### Social Media
 
 [<img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/linkedin-logo.svg' alt='linkedin' height='30' style="background-color:red">](https://www.linkedin.com/in/https://www.linkedin.com/in/minenhle-ngubane-mino//) 
-
 [<img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/https://www.facebook.com/groups/minenhlengubane)  
-
 [<img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/https://www.instagram.com/minenhle__ngubane//) 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](www.minenhlengubane.com)  
+[<img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/world-wide-web.svg' alt='website' height='30'>](www.minenhlengubane.com)  
 
