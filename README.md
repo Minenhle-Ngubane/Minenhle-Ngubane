@@ -4,10 +4,9 @@
 #### Freelance web designer
 I'm a freelance web designer / developer based in Durban, Amanzimtoti. I love building websites for small businesses and I am looking for more opportunities to work in coding on a freelance basis. I also enjoy working on personal side projects like building mobile apps with React native.
 
-- ⛪ I'm a christian
 - 🔭 I’m currently working on my blog
 - 🌱 I’m currently learning React and Gatsby
-- 👨🏾‍🏫 I'm a Coding tutor for beginners
+- 👨🏾‍🏫 I'm a coding tutor for beginners
 - 📫 How to reach me: www.minenhlengubane.com 
 <hr/>
 
