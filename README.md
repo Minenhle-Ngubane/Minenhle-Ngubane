@@ -1,4 +1,4 @@
-![I'm a freelance web designer](https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/githubBanner.png)
+![I'm a freelance web designer](https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/banner.png)
 
 # Minenhle Ngubane (Mino) :south_africa:
 #### Freelance web designer
