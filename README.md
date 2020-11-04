@@ -10,7 +10,6 @@ I'm a freelance web designer / developer based in Durban, Amanzimtoti. I love bu
 - 🎹 I'm a hobby pianist (😎I think Jazz music is awesome✔)
 - 🌍 How to reach me: www.minenhlengubane.com 
 
-#### Favourite Quote
 > "Think twice, code once."
 > ~***Waseem Latif***
 <hr/>
