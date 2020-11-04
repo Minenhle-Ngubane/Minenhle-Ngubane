@@ -1,6 +1,6 @@
 <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/banner-2.png'>
 
-# Minenhle Ngubane (Mino) :south_africa:
+# Minenhle Ngubane (Mino) <img src='https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg' height='20'>:south_africa:
 #### Freelance Web Developer
 I'm a freelance web designer / developer based in Durban, Amanzimtoti. I love building websites for small businesses and I am looking for more opportunities to work in coding on a freelance basis. I also enjoy working on personal side projects such as building mobile apps with React Native.
 
@@ -14,11 +14,11 @@ I'm a freelance web designer / developer based in Durban, Amanzimtoti. I love bu
 ### Skills & Experience
 
 - <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/python.svg' alt='linkedin' height='20'> Python
-- <img src='https://static.djangoproject.com/img/logos/django-logo-negative.svg' alt='linkedin' height='20'>
-- <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/wagtail-seeklogo.com.svg' alt='linkedin' height='20'> Wagtail
-- <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/javascript.svg' alt='linkedin' height='20'> JS
-- <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/html-5.svg' alt='linkedin' height='20'> HTML
-- <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/css.svg' alt='linkedin' height='20'> CSS
+- <img src='https://static.djangoproject.com/img/logos/django-logo-negative.svg' alt='django' height='20'>
+- <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/wagtail-seeklogo.com.svg' alt='wagtail' height='20'> Wagtail
+- <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/javascript.svg' alt='javascript' height='20'> JS
+- <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/html-5.svg' alt='html' height='20'> HTML
+- <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/css.svg' alt='css' height='20'> CSS
 <hr/>
 
 ### Social Media
