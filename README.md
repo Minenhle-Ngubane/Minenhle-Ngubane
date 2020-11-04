@@ -4,6 +4,10 @@
 #### Freelance Web Developer
 I'm a freelance web designer / developer based in Durban, Amanzimtoti. I love building websites for small businesses and I am looking for more opportunities to work in coding on a freelance basis. I also enjoy working on personal side projects such as building mobile apps with React Native.
 
+### Favourite Quote
+> "Think twice, code once."
+> - Waseem Latif.
+
 - 🔭 I’m currently working on my blog
 - 🌱 I’m currently learning React and Gatsby
 - 👨🏾‍🏫 I'm a coding tutor for beginners
