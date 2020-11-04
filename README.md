@@ -2,9 +2,7 @@
 
 ## Minenhle Ngubane (Mino)
 #### Freelance web designer
-<hr/>
-
-I love building websites for small businesses and I am looking for more opportunities to work in coding on a freelance basis.
+I'm a freelance web designer / developer based in Durban, Amanzimtoti. I love building websites for small businesses and I am looking for more opportunities to work in coding on a freelance basis.
 
 - 🔭 I’m currently working on my blog 
 - 🌱 I’m currently learning React.js, Gatsby.js, and C# 
