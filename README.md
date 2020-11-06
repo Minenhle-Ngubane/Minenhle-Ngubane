@@ -25,7 +25,7 @@ I'm a freelance web designer / developer based in Durban, Amanzimtoti. I love bu
 <hr/>
 
 ### Web Design & Development Projects
-[<img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/Screenshot_2020-11-07 Home - Welcome To GIA Solutions Sa (Pty) Ltd.jpg' alt='' width='300'>](https://www.giasolutions.co.za/)
+[<img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/Screenshot_2020-11-07 Home - Welcome To GIA Solutions Sa (Pty) Ltd.jpg' alt='' width='400'>](https://www.giasolutions.co.za/)
 <hr/>
 ### Social Media
 
