@@ -28,9 +28,9 @@ I'm a freelance web designer / developer based in Durban, Amanzimtoti. I love bu
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="GIA Solutions Sa (Pty) Ltd" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/GIA Solutions Sa (Pty) Ltd.png">  GIA Solutions Pty (Ltd) |  <img width="1604" alt="" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/proh-cleaning-mobile.png"> Proh Cleaning Mobile Pty (Ltd) |<img width="1604" alt="Ndu's Video Production" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/ndu-video-production.png"> Ndu's Video Production|
-
+|<img width="1604" alt="GIA Solutions Sa (Pty) Ltd" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/gia-solutions-sa.png">  GIA Solutions Pty (Ltd) |  <img width="1604" alt="Proh Cleaning Mobile Pty (Ltd)" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/proh-cleaning-mobile.png"> Proh Cleaning Mobile Pty (Ltd) |<img width="1604" alt="Ndu's Video Production" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/ndu-video-production.png"> Ndu's Video Production|
 <hr/>
+
 ### Social Media
 
 [<img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/linkedin-logo.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/minenhle-ngubane-mino//)  [<img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/https://www.facebook.com/groups/minenhlengubane)  [<img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/https://www.instagram.com/minenhle__ngubane//)  [<img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/world-wide-web.svg' alt='website' height='30'>](www.minenhlengubane.com)  
