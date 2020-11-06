@@ -28,7 +28,7 @@ I'm a freelance web designer / developer based in Durban, Amanzimtoti. I love bu
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="GIA Solutions Sa (Pty) Ltd" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/GIA Solutions Sa (Pty) Ltd.png">  GIA Solutions Pty (Ltd) |  <img width="1604" alt="" src="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png"> Proh Cleaning Mobile Pty (Ltd) |<img width="1604" alt="Ndu's Video production.png" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/ndu-video-production.png"> Ndu's Video Production|
+|<img width="1604" alt="GIA Solutions Sa (Pty) Ltd" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/GIA Solutions Sa (Pty) Ltd.png">  GIA Solutions Pty (Ltd) |  <img width="1604" alt="" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/proh-cleaning-mobile.png"> Proh Cleaning Mobile Pty (Ltd) |<img width="1604" alt="Ndu's Video Production" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/ndu-video-production.png"> Ndu's Video Production|
 
 <hr/>
 ### Social Media
