@@ -24,7 +24,7 @@ I'm a freelance web designer / developer based in Durban, Amanzimtoti. I love bu
 - <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/css.svg' alt='css' height='20'> CSS
 <hr/>
 
-### Web Design & Development Projects
+### Latest Web Design & Development Projects
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
