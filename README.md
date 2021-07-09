@@ -2,7 +2,9 @@
 
 # Minenhle Ngubane (Mino) <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/south-africa.svg' height='30'> :south_africa: ![Profile views](https://gpvc.arturio.dev/Minenhle-Ngubane)
 #### Freelance Web Developer
-I'm a freelance web designer / developer based in Durban, Amanzimtoti. I love building websites for small businesses and I am looking for more opportunities to work in coding on a freelance basis. I also enjoy working on personal side projects such as building mobile apps with React Native.
+I'm a freelance website developer based in Durban. I work with small businesses, entrepreneurs, personal ventures, and non-profits and I am looking for more opportunities to work on website design projects on a freelance basis.
+
+My goal is to provide professional and reliable website development using the latest and greatest technologies to help my clients achieve their online goals.
 
 - 🔭 I’m currently working on my blog
 - 🌱 I’m currently learning React and Gatsby
@@ -28,7 +30,7 @@ I'm a freelance web designer / developer based in Durban, Amanzimtoti. I love bu
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="GIA Solutions Sa (Pty) Ltd" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/gia-solutions-sa.png">  https://www.giasolutions.co.za |  <img width="1604" alt="Proh Cleaning Mobile Pty (Ltd)" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/proh-cleaning-mobile.png"> https://www.prohcleaning.co.za |<img width="1604" alt="Ndu's Video Production" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/ndu-video-production.png"> https://www.nduvideo.co.za |
+|<img width="1604" alt="GIA Solutions Sa (Pty) Ltd" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/macbook-pro-mockup-with-a-white-iphone-6-in-front-view-a11923%20(3).png">  https://www.giasolutions.co.za |  <img width="1604" alt="Proh Cleaning Mobile Pty (Ltd)" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/macbook-pro-mockup-with-a-white-iphone-6-in-front-view-a11923%20(2).png"> https://www.prohcleaning.co.za |<img width="1604" alt="Ndu's Video Production" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/macbook-pro-mockup-with-a-white-iphone-6-in-front-view-a11923%20(4).png"> https://www.nduvideo.co.za |
 <hr/>
 
 ### Social Media
