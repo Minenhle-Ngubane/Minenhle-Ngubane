@@ -31,9 +31,9 @@ My goal is to provide professional and reliable website development using the la
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="Little Rose apartment" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/macbook-pro-mockup-with-a-white-iphone-6-in-front-view-a11923.png"> | <img width="1604" alt="GIA Solutions Sa (Pty) Ltd" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/macbook-pro-mockup-with-a-white-iphone-6-in-front-view-a11923%20(3).png"> | <img width="1604" alt="Proh Cleaning Mobile Pty (Ltd)" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/macbook-pro-mockup-with-a-white-iphone-6-in-front-view-a11923%20(2).png"> |
-|littleroseapartments.co.za|giasolutions.co.za|prohcleaning.co.za|
+|www.littleroseapartments.co.za|www.giasolutions.co.za|wwww.prohcleaning.co.za|
 |<img width="1604" alt="Ndu's Video Production" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/macbook-pro-mockup-with-a-white-iphone-6-in-front-view-a11923%20(4).png"> | <img width="1604" alt="Gods Kingdom Life Church" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/macbook-pro-mockup-with-a-white-iphone-6-in-front-view-a11923%20(1).png">  |
-|nduvideo.co.za|godskingdomlifechurch.co.za ||
+|www.nduvideo.co.za|www.godskingdomlifechurch.co.za ||
 <hr/>
 
 ### Social Media
