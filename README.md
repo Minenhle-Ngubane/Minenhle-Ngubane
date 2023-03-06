@@ -1,6 +1,4 @@
-<img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/banner-2.png'>
-
-# Minenhle Ngubane (Mino) <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/south-africa.svg' height='30'> :south_africa: ![Profile views](https://gpvc.arturio.dev/Minenhle-Ngubane)
+# Minenhle Ngubane <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/south-africa.svg' height='30'> :south_africa: ![Profile views](https://gpvc.arturio.dev/Minenhle-Ngubane)
 #### Freelance Web Developer
 I'm a freelance website developer based in Durban. I work with small businesses, entrepreneurs, personal ventures, and non-profits and I am looking for more opportunities to work on website design projects on a freelance basis.
 
@@ -8,8 +6,6 @@ My goal is to provide professional and reliable website development using the la
 
 - 🔭 I’m currently working on my blog
 - 🌱 I’m currently learning React and Gatsby
-- 👨🏾‍🏫 I'm a coding tutor for beginners
-- 🎹 I'm a hobby pianist (😎I think Jazz music is awesome✔)
 - 🌍 How to reach me: www.minenhlengubane.com 
 
 > "Think twice, code once."
