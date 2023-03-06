@@ -31,7 +31,3 @@ My goal is to provide professional and reliable website development using the la
 |<img width="1604" alt="Ndu's Video Production" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/macbook-pro-mockup-with-a-white-iphone-6-in-front-view-a11923%20(4).png"> | <img width="1604" alt="Gods Kingdom Life Church" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/macbook-pro-mockup-with-a-white-iphone-6-in-front-view-a11923%20(1).png">  |
 |www.nduvideo.co.za|www.godskingdomlifechurch.co.za ||
 <hr/>
-
-### Social Media
-
-[<img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/linkedin-logo.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/minenhle-ngubane-mino/)  [<img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/groups/minenhlengubane)  [<img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/_minenhlengubane_/)  [<img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/world-wide-web.svg' alt='website' height='30'>](www.minenhlengubane.com)
