@@ -6,8 +6,7 @@
 ▀▄▀▄▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▀▀▀▀▄▄▄▀▄▄▄▀▀▄▄▄▄▀▄▄▀▄▄▀▄▄▄▄▄▀▄▄▄▄▀▀─
 
 <br>
-My name is Minenhle, a Backend Web Developer. I enjoy bringing different ideas to life with code, 
-and my goal is to create meaningful, problem solving products.
+I'm Minenhle, a Backend Web Developer dedicated to transforming ideas into impactful realities through code. My passion lies in crafting meaningful, problem-solving products that resonate with users.
 <br>
 <br>
 Feel free to contact me, I'm open to collaborating on interesting and innovative projects.
