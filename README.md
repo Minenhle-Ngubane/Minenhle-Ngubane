@@ -1,33 +1,50 @@
-# Minenhle Ngubane <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/south-africa.svg' height='30'> :south_africa: ![Profile views](https://gpvc.arturio.dev/Minenhle-Ngubane)
-#### Freelance Web Developer
-I'm a freelance website developer based in Durban. I work with small businesses, entrepreneurs, personal ventures, and non-profits and I am looking for more opportunities to work on website design projects on a freelance basis.
 
-My goal is to provide professional and reliable website development using the latest and greatest technologies to help my clients achieve their online goals.
+██╗░░██╗███████╗██╗░░░░░██╗░░░░░░█████╗░  ░██╗░░░░░░░██╗░█████╗░██████╗░██╗░░░░░██████╗░
+██║░░██║██╔════╝██║░░░░░██║░░░░░██╔══██╗  ░██║░░██╗░░██║██╔══██╗██╔══██╗██║░░░░░██╔══██╗
+███████║█████╗░░██║░░░░░██║░░░░░██║░░██║  ░╚██╗████╗██╔╝██║░░██║██████╔╝██║░░░░░██║░░██║
+██╔══██║██╔══╝░░██║░░░░░██║░░░░░██║░░██║  ░░████╔═████║░██║░░██║██╔══██╗██║░░░░░██║░░██║
+██║░░██║███████╗███████╗███████╗╚█████╔╝  ░░╚██╔╝░╚██╔╝░╚█████╔╝██║░░██║███████╗██████╔╝
+╚═╝░░╚═╝╚══════╝╚══════╝╚══════╝░╚════╝░  ░░░╚═╝░░░╚═╝░░░╚════╝░╚═╝░░╚═╝╚══════╝╚═════╝░
 
-- 🔭 I’m currently working on my blog
-- 🌱 I’m currently learning React and Gatsby
-- 🌍 How to reach me: www.minenhlengubane.com 
+<br>
+My name is Minenhle, a Backend Web Developer. I enjoy bringing different ideas to life with code, 
+and my goal is to create meaningful, problem solving products.
+<br>
+<br>
+Feel free to contact me, I'm open to collaborating on interesting and innovative projects.
+<br>
+<br>
+<a href="https://www.linkedin.com/in/minenhle-ngubane-mino">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="mailto:mino@minenhlengubane.com">
+    <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+</a>
 
-> "Think twice, code once."
-> ~***Waseem Latif***
-<hr/>
 
-### Skills & Experience
+### Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Minenhle-Ngubane)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Minenhle-Ngubane)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Minenhle-Ngubane)
+[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/Minenhle-Ngubane)
 
-- <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/python.svg' alt='linkedin' height='20'> Python
-- <img src='https://static.djangoproject.com/img/logos/django-logo-negative.svg' alt='django' height='20'>
-- <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/wagtail-seeklogo.com.svg' alt='wagtail' height='20'> Wagtail
-- <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/javascript.svg' alt='javascript' height='20'> JS
-- <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/html-5.svg' alt='html' height='20'> HTML
-- <img src='https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/css.svg' alt='css' height='20'> CSS
-<hr/>
 
-### Latest Web Design & Development Projects
+### Technologies & Frameworks
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/Minenhle-Ngubane)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Minenhle-Ngubane)
+[![Astro](https://img.shields.io/badge/astro-black?style=for-the-badge&logo=astro)](https://github.com/Minenhle-Ngubane)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Minenhle-Ngubane)
+[![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)](https://github.com/Minenhle-Ngubane)
+[![Celery](https://img.shields.io/badge/celery-black?style=for-the-badge&logo=celery)](https://github.com/Minenhle-Ngubane)
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="Little Rose apartment" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/macbook-pro-mockup-with-a-white-iphone-6-in-front-view-a11923.png"> | <img width="1604" alt="GIA Solutions Sa (Pty) Ltd" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/macbook-pro-mockup-with-a-white-iphone-6-in-front-view-a11923%20(3).png"> | <img width="1604" alt="Proh Cleaning Mobile Pty (Ltd)" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/macbook-pro-mockup-with-a-white-iphone-6-in-front-view-a11923%20(2).png"> |
-|www.littleroseapartments.co.za|www.giasolutions.co.za|www.prohcleaning.co.za|
-|<img width="1604" alt="Ndu's Video Production" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/macbook-pro-mockup-with-a-white-iphone-6-in-front-view-a11923%20(4).png"> | <img width="1604" alt="Gods Kingdom Life Church" src="https://github.com/Minenhle-Ngubane/Minenhle-Ngubane/blob/main/macbook-pro-mockup-with-a-white-iphone-6-in-front-view-a11923%20(1).png">  |
-|www.nduvideo.co.za|www.godskingdomlifechurch.co.za ||
-<hr/>
+
+### Databases
+[![MySql](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Minenhle-Ngubane)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/Minenhle-Ngubane)
+
+
+### OS
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Minenhle-Ngubane)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Minenhle-Ngubane)
+
+
