@@ -14,7 +14,7 @@ Feel free to contact me, I'm open to collaborating on interesting and innovative
 <br>
 
 - 🌱 I’m currently learning **Java,and Spring**
-- 💬 Ask me about **Python,Django,and React**
+- 💬 Ask me about **Python,Django,and Wagtail**
 - Rapid and Adaptive ⚡️
 - Problem Solver 💡
 
