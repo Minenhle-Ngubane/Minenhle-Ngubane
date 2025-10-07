@@ -1,23 +1,12 @@
+Hi, I'm Minenhle 👋
 
+I'm an aspiring Full Stack Developer passionate about building clean, scalable, and maintainable software.
+I enjoy solving problems, designing robust solutions, and contributing to impactful projects.
 
-███████████████████████████████████████████████████████████████
-█─█─█▄─▄▄─█▄─▄███▄─▄███─▄▄─███▄─█▀▀▀█─▄█─▄▄─█▄─▄▄▀█▄─▄███▄─▄▄▀█
-█─▄─██─▄█▀██─██▀██─██▀█─██─████─█─█─█─██─██─██─▄─▄██─██▀██─██─█
-▀▄▀▄▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▀▀▀▀▄▄▄▀▄▄▄▀▀▄▄▄▄▀▄▄▀▄▄▀▄▄▄▄▄▀▄▄▄▄▀▀─
+🌱 Currently deepening my skills in Python, Django, FastAPI, and software engineering best practices
 
-Hi, I'm Minenhle 👋  
+💬 Experienced with RESTful APIs, database design, unit testing, and version control
 
-I'm an **aspiring Full Stack Developer** passionate about web and mobile development.  
-I enjoy learning, solving problems, and turning ideas into simple, useful applications.  
+💡 Focused on clean code, modular architecture, and scalable application design
 
-I'm eager to grow my skills, collaborate with others, and contribute to impactful projects.  
-
-<br>
-
-- 🌱 Currently learning **Java and Spring**  
-- 💬 Comfortable with **Python, Django, Flask, FastAPI and REST APIs**  
-- 💡 Curious, hardworking, and always open to feedback  
-
-<br>
-
-📬 Feel free to connect — I'm open to collaborating on exciting and meaningful projects!
+📬 I’m eager to grow as a software engineer and contribute to innovative development teams.
